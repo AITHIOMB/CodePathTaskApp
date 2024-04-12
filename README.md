@@ -1,10 +1,10 @@
-# Project 7 - *Name of App Here*
+# Project 7 - Task Starter
 
-Submitted by: **Your Name Here**
+Submitted by: Aissatou Thiombane
 
-**Name of your app** is an app that ... [TODO] 
+Task Starter is an app that allows users to add tasks to the app and calender the task.
 
-Time spent: **X** hours spent in total
+Time spent: 2 hours spent in total
 
 ## Required Features
 
@@ -26,17 +26,17 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
-## Notes
-
-Describe any challenges encountered while building the app.
+<div>
+    <a href="https://www.loom.com/share/a823343ee0cd4dc39b716600af615b21">
+    </a>
+    <a href="https://www.loom.com/share/a823343ee0cd4dc39b716600af615b21">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a823343ee0cd4dc39b716600af615b21-with-play.gif">
+    </a>
+  </div>
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2024 Aissatou Thiombane
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
